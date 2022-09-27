@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;AAAA;AACA;AACA,C","sources":["webpack:///./src/index.js"],"sourcesContent":["let fakeDiv = () => {\r\n    console.log(123);\r\n}"],"names":[],"sourceRoot":""}
